@@ -1,0 +1,5 @@
+# jest-practice
+
+```
+npm test
+```
